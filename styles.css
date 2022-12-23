@@ -1,1 +1,102 @@
+*{
+
+    font-family: "Lato", sans-serif;
+    margin: 0px;
+}
+#img1{
+    width: 100vw;
+    height: 100vh;
+}
+#img2{
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.6;
+}
+#img3{
+    width: 100vw;
+    height: 100vh;
+}
+#img4{
+    width: 100vw;
+    height: 100vh;
+}
+#h-1{
+    background-color: lightgray;
+    color: gray;
+    width: 348px;
+    height: 44px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+
+.div1{
+    position: relative;
+    background-image: url(images/umer-sayyam-SHP1t8EduMY-unsplash.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.div3{
+    position: relative;
+    background-image: url(images/piotr-chrobot-6oUsyeYXgTg-unsplash.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+   
+}
+.div4{
+    position: relative;
+    background-image: url(images/luca-bravo-TaCk3NspYe0-unsplash.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    
+}
+.div5{ 
+    position: relative;
+    background-image: url(images/yulia-vambold-s0ifr6qb6H0-unsplash.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    
+}
+.div2{
+    background-color: black;
+    width: 100%;
+    height: auto;
+    opacity: 0.8;
+    
+  
+}
+.h-2{
+    color: gray;
+    text-align: center;
+    padding-top: 35px;
+}
+.p1{
+    
+
+    font-size: 20px;
+    color: #ddd;
+    text-align: center;
+    position: relative;
+    padding: 50px 100px;
+}
+
+html,body{
+    overflow-x: hidden;
+}
 
